@@ -1,5 +1,19 @@
+.headerbox{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.pacmanimgheader{
+  width: 200px;
+  height: 200px;
+}
+.logoheader{
+  width: 200px;
+  height: 200px;
+}
+
 body{ 
-  background-image: url("fondo-pacman.jpg");
+  background-image: url("assets/backgrounds/fondo-pacman.jpg");
   }
 
 .box{
@@ -10,6 +24,11 @@ body{
 }
 
 .firstpacman{
+  width: 100px;
+  height: 100px;
+}
+
+.fantasmito{
   width: 100px;
   height: 100px;
 }
