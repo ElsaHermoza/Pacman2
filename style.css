@@ -1,0 +1,15 @@
+.imagen {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  body { 
+    background-image: url("https://lh3.googleusercontent.com/drive-storage/AJQWtBNtXpEoINeQz_m5pBmOKZeptwpqSPS3SL4C5rui0PLntSUJVv1bS_SV3wWccglUeQZ3P0G_rCjaf4chN5sm-SYDT-9nctTgGf36qcRor2N8j2M=w3358-h1720");
+
+  }
